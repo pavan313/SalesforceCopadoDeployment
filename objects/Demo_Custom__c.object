@@ -130,6 +130,7 @@
         <actionName>View</actionName>
         <type>Default</type>
     </actionOverrides>
+    
     <actionOverrides>
         <actionName>View</actionName>
         <formFactor>Large</formFactor>
