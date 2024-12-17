@@ -194,6 +194,13 @@
         <type>Checkbox</type>
     </fields>
     <fields>
+        <fullName>Test_check__c</fullName>
+        <defaultValue>false</defaultValue>
+        <label>Test check</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>Field_Seven__c</fullName>
         <defaultValue>false</defaultValue>
         <label>Field Seven</label>
